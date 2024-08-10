@@ -40,7 +40,7 @@ keep track of which words need further review.
   python main.py
 
 
-## How It Works##:
+## How It Works:
 - Word Generation: The app randomly selects a French word from a dataset (french_words.csv). If a file named words_to_learn.csv exists, the app loads this file instead, allowing users to continue from where they left off.
 - Data Management with pandas: The pandas library is used to read, write, and manipulate the word data stored in CSV files, ensuring efficient data handling.
 - Card Flipping: After 3 seconds, the flash card flips to show the English translation of the French word.
