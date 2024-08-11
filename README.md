@@ -4,6 +4,9 @@ This is a simple flash card application built with Python and Tkinter, designed 
 The app presents a French word and, after a brief delay, reveals its English translation. Users can mark words they know, and the app will 
 keep track of which words need further review.
 
+[!Watch the Video](https://github.com/user-attachments/assets/28b4bb2b-88de-43c8-b1ba-93f5b056826f)
+
+
 ## Features:
 
 - **Interactive Flash Cards**: Displays a French word on the front side and its English translation on the back after 3 seconds..
